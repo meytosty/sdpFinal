@@ -59,3 +59,12 @@ Adapter Pattern:
 The Car Rental Management System effectively leverages various design patterns to enhance modularity, flexibility, and scalability. 
 Challenges faced during implementation revolved around integrating external payment services and ensuring seamless notifications. 
 Future improvements may include a more robust user authentication system and an expanded range of available cars.
+
+
+**References**
+1)https://refactoring.guru/design-patterns/adapter
+2)https://refactoring.guru/design-patterns/decorator
+3)https://refactoring.guru/design-patterns/observer
+4)https://refactoring.guru/design-patterns/strategy
+5)https://refactoring.guru/design-patterns/factory-method
+6)https://refactoring.guru/design-patterns/singleton
